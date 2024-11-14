@@ -41,4 +41,5 @@ class TestParallel:
 # pytest -v -s /Users/akshaydhiman/PycharmProjects_SDET_08_01/pythonProject/pytest/test_parallel.py
 # pytest -v -s -n=3 /Users/akshaydhiman/PycharmProjects_SDET_08_01/pythonProject/pytest/test_parallel.py ( thread count )
 
-    
+    # Install the latest LTS version: brew install jenkins-lts
+# Start the Jenkins service: brew services start jenkins-lts
